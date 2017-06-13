@@ -1,0 +1,41 @@
+.beep {
+	border: 2px solid black ;
+	position: relative;
+	width: 100px;
+	height: 100px;
+	font-size: 20pt;
+	font-color: red;
+	float:left;
+	margin: 20px;
+	background-color: white;
+}
+
+#container {
+	padding: 10% 20px 0px 20%;
+	text-align: center;
+	overflow: auto;
+	width: 80%;
+	height: 350px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+#A {
+	
+	border: 2px solid red;
+}
+
+#S {
+
+	border: 2px solid green;
+}
+
+
+#D {
+	
+	border: 2px solid blue;
+}
+
+#F {
+	border: 2px solid yellow;
+}
+
